@@ -1,0 +1,5 @@
+{
+  "name": "Accessible Mind Map Reader",
+  "description": "An application designed for the visually impaired to understand mind maps through detailed audio descriptions and high-contrast visuals. It supports multiple languages and allows downloading the mind map image.",
+  "requestFramePermissions": []
+}
